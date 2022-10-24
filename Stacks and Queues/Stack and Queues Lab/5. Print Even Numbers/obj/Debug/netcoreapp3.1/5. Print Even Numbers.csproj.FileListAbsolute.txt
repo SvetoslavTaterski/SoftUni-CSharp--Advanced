@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.genruntimeconfig.cache

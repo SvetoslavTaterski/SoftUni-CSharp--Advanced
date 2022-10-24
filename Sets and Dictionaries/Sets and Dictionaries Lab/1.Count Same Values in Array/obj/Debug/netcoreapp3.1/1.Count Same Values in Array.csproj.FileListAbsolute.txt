@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\bin\Debug\netcoreapp3.1\1.Count Same Values in Array.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\1.Count Same Values in Array\obj\Debug\netcoreapp3.1\1.Count Same Values in Array.genruntimeconfig.cache

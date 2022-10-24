@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.genruntimeconfig.cache

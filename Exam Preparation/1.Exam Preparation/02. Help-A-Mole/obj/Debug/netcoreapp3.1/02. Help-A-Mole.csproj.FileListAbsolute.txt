@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.genruntimeconfig.cache

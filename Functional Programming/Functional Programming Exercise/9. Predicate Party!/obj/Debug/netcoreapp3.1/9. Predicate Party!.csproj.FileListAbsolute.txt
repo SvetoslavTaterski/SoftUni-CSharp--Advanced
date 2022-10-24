@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

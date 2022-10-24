@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\bin\Debug\netcoreapp3.1\Birthday Celebration.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Birthday Celebration\obj\Debug\netcoreapp3.1\Birthday Celebration.csproj.AssemblyReference.cache

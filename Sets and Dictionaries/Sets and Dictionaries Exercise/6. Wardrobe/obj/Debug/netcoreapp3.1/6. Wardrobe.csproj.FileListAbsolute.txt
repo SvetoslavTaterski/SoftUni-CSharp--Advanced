@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.genruntimeconfig.cache

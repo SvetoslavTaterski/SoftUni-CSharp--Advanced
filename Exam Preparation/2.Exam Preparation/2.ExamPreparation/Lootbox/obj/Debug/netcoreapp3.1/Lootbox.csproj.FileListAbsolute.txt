@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache

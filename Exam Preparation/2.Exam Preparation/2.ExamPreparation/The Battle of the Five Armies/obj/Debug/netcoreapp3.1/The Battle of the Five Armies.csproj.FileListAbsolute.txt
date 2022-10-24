@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\bin\Debug\netcoreapp3.1\The Battle of the Five Armies.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\The Battle of the Five Armies\obj\Debug\netcoreapp3.1\The Battle of the Five Armies.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\bin\Debug\netcoreapp3.1\2. Sets of Elements.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\2. Sets of Elements\obj\Debug\netcoreapp3.1\2. Sets of Elements.genruntimeconfig.cache

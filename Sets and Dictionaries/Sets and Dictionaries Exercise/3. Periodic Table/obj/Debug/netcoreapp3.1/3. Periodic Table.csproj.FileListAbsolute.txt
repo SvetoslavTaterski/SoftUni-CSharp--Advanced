@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache

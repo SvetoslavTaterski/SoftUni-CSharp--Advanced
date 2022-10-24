@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\bin\Debug\netcoreapp3.1\6. Split Merge Binary Files.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\6. Split Merge Binary Files\obj\Debug\netcoreapp3.1\6. Split Merge Binary Files.genruntimeconfig.cache

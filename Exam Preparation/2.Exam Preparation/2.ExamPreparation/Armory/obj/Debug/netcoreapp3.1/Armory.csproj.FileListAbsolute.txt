@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.AssemblyReference.cache

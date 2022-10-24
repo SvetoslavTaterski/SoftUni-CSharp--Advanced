@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.genruntimeconfig.cache

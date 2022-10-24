@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.genruntimeconfig.cache

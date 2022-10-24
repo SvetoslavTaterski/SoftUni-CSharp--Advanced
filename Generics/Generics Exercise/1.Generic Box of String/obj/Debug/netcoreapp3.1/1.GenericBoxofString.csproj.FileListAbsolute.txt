@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\bin\Debug\netcoreapp3.1\1.GenericBoxofString.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Exercise\1.Generic Box of String\obj\Debug\netcoreapp3.1\1.GenericBoxofString.genruntimeconfig.cache

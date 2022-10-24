@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\bin\Debug\netcoreapp3.1\Meal Plan Other.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\Meal Plan Other\obj\Debug\netcoreapp3.1\Meal Plan Other.genruntimeconfig.cache

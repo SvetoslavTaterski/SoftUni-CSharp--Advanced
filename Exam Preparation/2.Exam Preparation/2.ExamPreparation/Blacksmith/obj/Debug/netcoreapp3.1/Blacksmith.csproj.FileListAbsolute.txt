@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.genruntimeconfig.cache

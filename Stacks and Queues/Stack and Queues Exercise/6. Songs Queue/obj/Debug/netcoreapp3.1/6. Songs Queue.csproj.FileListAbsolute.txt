@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.genruntimeconfig.cache

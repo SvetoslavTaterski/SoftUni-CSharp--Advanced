@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Stacks and Queues\Stack and Queues Exercise\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.genruntimeconfig.cache

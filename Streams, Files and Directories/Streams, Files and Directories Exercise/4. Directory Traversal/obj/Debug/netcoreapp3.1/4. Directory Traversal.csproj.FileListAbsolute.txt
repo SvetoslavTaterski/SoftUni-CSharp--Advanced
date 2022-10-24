@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.genruntimeconfig.cache

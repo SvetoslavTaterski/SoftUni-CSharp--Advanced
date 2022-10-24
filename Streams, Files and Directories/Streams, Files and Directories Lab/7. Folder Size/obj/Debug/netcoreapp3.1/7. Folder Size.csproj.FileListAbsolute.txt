@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.genruntimeconfig.cache

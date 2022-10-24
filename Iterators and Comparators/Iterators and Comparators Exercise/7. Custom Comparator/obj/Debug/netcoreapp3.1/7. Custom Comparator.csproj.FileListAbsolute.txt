@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\bin\Debug\netcoreapp3.1\7. Custom Comparator.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Iterators and Comparators\Iterators and Comparators Exercise\7. Custom Comparator\obj\Debug\netcoreapp3.1\7. Custom Comparator.genruntimeconfig.cache

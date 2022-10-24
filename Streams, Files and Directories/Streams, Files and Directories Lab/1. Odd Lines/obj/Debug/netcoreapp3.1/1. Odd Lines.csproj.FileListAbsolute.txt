@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.genruntimeconfig.cache

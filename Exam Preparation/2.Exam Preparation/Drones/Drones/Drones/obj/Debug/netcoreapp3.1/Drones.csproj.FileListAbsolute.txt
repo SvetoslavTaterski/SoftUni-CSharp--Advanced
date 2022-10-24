@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache

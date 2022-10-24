@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Generics\Generics Lab\1. Box of T\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

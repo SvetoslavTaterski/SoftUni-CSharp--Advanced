@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.genruntimeconfig.cache

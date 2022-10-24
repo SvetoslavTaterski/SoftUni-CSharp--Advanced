@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.genruntimeconfig.cache

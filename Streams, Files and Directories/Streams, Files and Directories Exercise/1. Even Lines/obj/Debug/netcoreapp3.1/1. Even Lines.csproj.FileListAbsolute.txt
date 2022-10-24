@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.genruntimeconfig.cache

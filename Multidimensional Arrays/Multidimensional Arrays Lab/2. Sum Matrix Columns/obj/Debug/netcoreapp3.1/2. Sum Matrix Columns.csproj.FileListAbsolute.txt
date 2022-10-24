@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache

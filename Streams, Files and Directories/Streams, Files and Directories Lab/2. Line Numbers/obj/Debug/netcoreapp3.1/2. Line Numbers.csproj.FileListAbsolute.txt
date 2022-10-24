@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Streams, Files and Directories\Streams, Files and Directories Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.genruntimeconfig.cache

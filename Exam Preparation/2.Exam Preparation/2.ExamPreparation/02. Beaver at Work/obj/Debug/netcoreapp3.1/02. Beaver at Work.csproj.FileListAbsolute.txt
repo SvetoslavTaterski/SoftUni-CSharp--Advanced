@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.genruntimeconfig.cache

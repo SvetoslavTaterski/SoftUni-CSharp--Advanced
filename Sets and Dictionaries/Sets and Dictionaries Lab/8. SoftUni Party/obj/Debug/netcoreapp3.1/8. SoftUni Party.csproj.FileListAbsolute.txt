@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\bin\Debug\netcoreapp3.1\8. SoftUni Party.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\8. SoftUni Party\obj\Debug\netcoreapp3.1\8. SoftUni Party.genruntimeconfig.cache

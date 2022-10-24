@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\bin\Debug\netcoreapp3.1\First.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam\Advanced Exam\First\obj\Debug\netcoreapp3.1\First.genruntimeconfig.cache

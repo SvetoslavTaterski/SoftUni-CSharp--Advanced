@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache

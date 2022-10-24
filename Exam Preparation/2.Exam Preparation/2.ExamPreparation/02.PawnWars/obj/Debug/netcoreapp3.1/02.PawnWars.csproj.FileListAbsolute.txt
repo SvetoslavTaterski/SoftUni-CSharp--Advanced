@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.genruntimeconfig.cache

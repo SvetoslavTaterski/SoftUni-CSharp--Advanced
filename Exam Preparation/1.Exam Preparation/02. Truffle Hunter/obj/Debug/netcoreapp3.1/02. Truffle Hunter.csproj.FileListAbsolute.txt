@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.AssemblyReference.cache

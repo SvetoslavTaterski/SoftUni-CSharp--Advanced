@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01.Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.genruntimeconfig.cache

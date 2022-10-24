@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\1.Exam Preparation\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\StockMarket\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

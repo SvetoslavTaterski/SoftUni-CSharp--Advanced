@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\bin\Debug\netcoreapp3.1\7. Parking Lot.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Sets and Dictionaries\Sets and Dictionaries Lab\7. Parking Lot\obj\Debug\netcoreapp3.1\7. Parking Lot.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Functional Programming\Functional Programming Exercise\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.genruntimeconfig.cache

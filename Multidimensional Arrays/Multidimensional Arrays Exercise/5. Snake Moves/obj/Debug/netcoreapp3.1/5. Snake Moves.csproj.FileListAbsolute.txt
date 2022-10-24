@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Multidimensional Arrays\Multidimensional Arrays Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\Advanced\Exam Preparation\2.Exam Preparation\2.ExamPreparation\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.genruntimeconfig.cache
