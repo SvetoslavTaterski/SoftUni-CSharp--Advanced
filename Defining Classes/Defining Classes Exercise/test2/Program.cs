@@ -37,15 +37,18 @@ namespace test2
               };
 
             int firstNum = int.Parse(Console.ReadLine());
-            int secondNum = int.Parse(Console.ReadLine()); ;
-            //int thirdNum = int.Parse(Console.ReadLine()); ;
-            //int fourthNum = int.Parse(Console.ReadLine()); ;
+            int secondNum = int.Parse(Console.ReadLine()); 
+            int thirdNum = int.Parse(Console.ReadLine());
+            //int fourthNum = int.Parse(Console.ReadLine());
 
             int func1Result = func1(firstNum, secondNum);
-            //int func2Result = func2(func1(firstNum, secondNum), thirdNum);
+            int func2Result = func2(func1(firstNum, secondNum), thirdNum);
             //int func3Result = func3(func2(func1(firstNum, secondNum), thirdNum), fourthNum);
+            Console.WriteLine();
 
             Console.WriteLine(func1Result);
+            Console.WriteLine(func2Result);
+            //Console.WriteLine(func3Result);
         }
     }
 }
